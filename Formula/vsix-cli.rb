@@ -1,9 +1,9 @@
 class VsixCli < Formula
   desc "Download VS Code extensions (.vsix files) from official or open-source marketplaces"
   homepage "https://github.com/hongkongkiwi/vsix-cli"
-  url "https://github.com/hongkongkiwi/vsix-cli/releases/download/v4.7.0/vsix-cli"
-  version "4.7.0"
-  sha256 "c8ba577a03c5629a66b09a09f5a2854fe2d39eac0473f9b46cae1a70f49a061a"
+  url "https://github.com/hongkongkiwi/vsix-cli/releases/download/v4.7.4/vsix-cli"
+  version "4.7.4"
+  sha256 "18fb35316364e41810d06cd5909af22fd253d628d85a3c4e5fa85cf05e61a038"
   license "MIT"
 
   depends_on "bash"
